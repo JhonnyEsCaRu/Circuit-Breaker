@@ -4,9 +4,9 @@
 
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.example</groupId>
-    <artifactId>circuit-breaker-demo</artifactId>
+    <artifactId>circuit-breaker</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <name>Circuit Breaker Demo</name>
+    <name>Circuit Breaker</name>
 
     <properties>
         <maven.compiler.source>17</maven.compiler.source>
