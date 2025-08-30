@@ -12,8 +12,8 @@ Este proyecto demuestra cómo implementar el patrón de diseño **Circuit Breake
 ## ▶️ Ejecutar
 1. Clonar el proyecto:
    ```bash
-   git clone https://github.com/tuusuario/circuit-breaker-demo.git
-   cd circuit-breaker-demo
+   git clone https://github.com/JhonnyEsCaRu/circuitBraker.git
+   cd circuitBraker
    ```
 2. Compilar y ejecutar:
    ```bash

@@ -1,0 +1,5 @@
+com\example\circuitbreaker\CircuitBreaker.class
+com\example\circuitbreaker\CircuitBreaker$State.class
+com\example\circuitbreaker\Main.class
+com\example\circuitbreaker\ServiceCaller.class
+com\example\circuitbreaker\RemoteService.class
